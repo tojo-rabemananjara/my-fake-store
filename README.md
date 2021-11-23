@@ -14,5 +14,5 @@ Mockup store featuring codecademy project. Features include items, add items, re
 
 ## Launch
 
-Go to `tojo-codecademy-store.surge.sh`
+Go to tojo-codecademy-store.surge.sh
 
